@@ -1,4 +1,4 @@
-[# Liver Tumor AI  
+# Liver Tumor AI  
 **Real-time Detection + Pixel-Level Segmentation**  
 **91.7% Dice • 83.7% Accuracy • No Data Leakage • Patient-Independent Validation**
 
